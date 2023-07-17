@@ -6,3 +6,4 @@
 ### The model is able to copy the accent of the original audio.
 ### The model is able to generate speech at a variety of speeds and pitches.
 ### The model is able to generate speech that is clear and understandable.
+# I have made a voice clone model of SRK and have zip file of the .pth file and the index file.
